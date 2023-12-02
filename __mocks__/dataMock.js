@@ -4,7 +4,11 @@ module.exports = {
         button: "Click Me"
     },
 
-    profile : {
-        
+    dataProfile : {
+        name : "aulia",
+        number : "628567446106",
+        Saldo : "Saldo Rp0",
+        imgAvatar : "/avatars/01.png"
     }
+
 }
